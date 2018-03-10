@@ -2,6 +2,19 @@
 A curated list of awesome Go linters. Sponsored by [GolangCI](https://golangci.com).
 
 ## Contents
+* [Cloud Linters](#cloud-linters)
+   * [Go focused](#go-focused)
+   * [General Purpose](#general-purpose)
+* [Linters](#linters)
+   * [Code Formatting](#code-formatting)
+   * [Code Complexity](#code-complexity)
+   * [Style and Patterns Checking](#style-and-patterns-checking)
+   * [Bugs](#bugs)
+   * [Unused code](#unused-code)
+   * [Performance](#performance)
+   * [Reports](#reports)
+   * [Misc](#misc)
+* [Linters Helper Tools](#linters-helper-tools)
 
 ## Cloud Linters
 ### Go focused

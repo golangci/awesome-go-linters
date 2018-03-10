@@ -3,21 +3,21 @@ A curated list of awesome Go linters. Sponsored by [GolangCI](https://golangci.c
 
 ## Contents
 * [Cloud Linters](#cloud-linters)
-   * [Go focused](#go-focused)
+   * [Go Focused](#go-focused)
    * [General Purpose](#general-purpose)
 * [Linters](#linters)
    * [Code Formatting](#code-formatting)
    * [Code Complexity](#code-complexity)
    * [Style and Patterns Checking](#style-and-patterns-checking)
    * [Bugs](#bugs)
-   * [Unused code](#unused-code)
+   * [Unused Code](#unused-code)
    * [Performance](#performance)
    * [Reports](#reports)
    * [Misc](#misc)
 * [Linters Helper Tools](#linters-helper-tools)
 
 ## Cloud Linters
-### Go focused
+### Go Focused
 * [GolangCI](https://golangci.com/) - Open Source service for automated Github pull request code reviews. Free for Open Source.
 * [Golint online](http://go-lint.appspot.com/) - Lints online Go source files on GitHub, Bitbucket and Google Project Hosting using the golint package.
 * [GopherCI](https://gopherci.io/) - GopherCI helps you maintain high-quality Go projects, by checking each GitHub Pull Request, for backward incompatible changes, and a suite of other tests.
@@ -73,7 +73,7 @@ A curated list of awesome Go linters. Sponsored by [GolangCI](https://golangci.c
 * [scopelint](https://github.com/kyoh86/scopelint) - scopelint checks for unpinned variables in go programs.
 * [staticcheck](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 
-### Unused code
+### Unused Code
 * [deadcode](https://github.com/tsenart/deadcode) - Finds unused code.
 * [ineffassign](https://github.com/gordonklaus/ineffassign) - Detect when assignments to existing variables are not used.
 * [structcheck](https://github.com/opennota/check) - Find unused global variables and constants.

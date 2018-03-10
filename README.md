@@ -1,5 +1,9 @@
 # Awesome Go Linters
-A curated list of awesome Go linters. Sponsored by [GolangCI](https://golangci.com).
+A curated list of awesome Go linters.
+
+Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters on Github pull requests. Free for Open Source.
+
+<a href="https://golangci.com/"><img src="/go.png" width="250px"></a>
 
 ## Contents
 * [Cloud Linters](#cloud-linters)

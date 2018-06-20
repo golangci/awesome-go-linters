@@ -104,6 +104,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [godox](https://github.com/766b/godox) - Find all TODO/FIXME comments.
 * [lingo](https://github.com/s2gatev/lingo) - Set of specific checks.
 * [megacheck](https://github.com/dominikh/go-tools/tree/master/cmd/megacheck) - megacheck runs staticcheck, gosimple and unused at once. Because it is able to reuse work, it will be faster than running each tool separately.
+* [go-critic](https://github.com/go-critic/go-critic) - source code linter that brings checks that are currently not implemented in other linters.
 * [tarp](https://github.com/verygoodsoftwarenotvirus/tarp) - tarp finds functions and methods without direct unit tests in Go source code.
 
 ## Linters Helper Tools

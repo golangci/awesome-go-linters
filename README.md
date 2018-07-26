@@ -63,6 +63,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [lll](https://github.com/walle/lll) - Line length linter, used to enforce line length in files.
 * [misspell](https://github.com/client9/misspell) - Finds commonly misspelled English words
 * [nofuncflags](https://github.com/fsamin/nofuncflags) - disallow boolean params to functions (flags).
+* [revive](https://github.com/mgechev/revive) - ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 * [unconvert](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 * [usedexports](https://github.com/jgautheron/usedexports) - Find in Go exported variables that could be unexported.
 

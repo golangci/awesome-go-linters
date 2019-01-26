@@ -111,7 +111,8 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [tarp](https://github.com/verygoodsoftwarenotvirus/tarp) - tarp finds functions and methods without direct unit tests in Go source code.
 
 ## Linters Helper Tools
-* [Go Metalinter](https://github.com/alecthomas/gometalinter) - Metalinter is a tool to automatically apply all static analysis tool and report their output in normalized form.
+* [golangci-lint](https://github.com/golangci/golangci-lint) - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
+* [gometalinter](https://github.com/alecthomas/gometalinter) - Metalinter is a tool to automatically apply all static analysis tool and report their output in normalized form.
 * [lint](https://github.com/surullabs/lint) - Run linters as part of go test.
 * [revgrep](https://github.com/bradleyfalzon/revgrep) - Filters output from static analysis tools, showing only recently changed lines of code
 * [reviewdog](https://github.com/haya14busa/reviewdog) - "reviewdog" provides a way to post review comments to code hosting service, such as GitHub, automatically by integrating with any linter tools with ease.

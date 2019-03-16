@@ -110,6 +110,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [megacheck](https://github.com/dominikh/go-tools/tree/master/cmd/megacheck) - megacheck runs staticcheck, gosimple and unused at once. Because it is able to reuse work, it will be faster than running each tool separately.
 * [go-critic](https://github.com/go-critic/go-critic) - source code linter that brings checks that are currently not implemented in other linters.
 * [tarp](https://github.com/verygoodsoftwarenotvirus/tarp) - tarp finds functions and methods without direct unit tests in Go source code.
+* [go-mnd](https://github.com/tommy-muehle/go-mnd) - Magic number detector for Go.
 
 ## Linters Helper Tools
 * [golangci-lint](https://github.com/golangci/golangci-lint) - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.

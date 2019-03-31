@@ -78,6 +78,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [gas](https://github.com/GoASTScanner/gas) - Inspects source code for security problems by scanning the Go AST.
 * [go vet](https://golang.org/cmd/vet/) - Vet examines Go source code and reports suspicious constructs, such as Printf calls whose arguments do not align with the format string. Can check shadowing of variables, but must be enabled explicitly.
 * [gosumcheck](https://github.com/haya14busa/gosum) - Checks all possible cases of type-switch are handled.
+* [go-sumtype](https://github.com/BurntSushi/go-sumtype) - Checks all possible cases of type-switch are handled.
 * [mulint](https://github.com/gnieto/mulint) - Go lint which detects recursive locks, which may lead to dead locks.
 * [safesql](https://github.com/stripe/safesql) - Static analysis tool for Golang that protects against SQL injections.
 * [scopelint](https://github.com/kyoh86/scopelint) - scopelint checks for unpinned variables in go programs.

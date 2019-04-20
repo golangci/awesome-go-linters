@@ -72,6 +72,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 ### Bugs
 * [apicompat](https://github.com/bradleyfalzon/apicompat) - Checks recent changes to a Go project for backwards incompatible changes.
 * [badtime](https://github.com/m3db/build-tools/tree/master/linters/badtime) - Badtime is a Golang linter that detects inappropriate usage of the time.Time struct.
+* [bodyclose](https://github.com/timakin/bodyclose) -  checks whether HTTP response body is closed and a re-use of TCP connection is not blocked
 * [durcheck](https://github.com/hypnoglow/durcheck) - durcheck is a very simple linter which detects potential bugs with time.Duration in a Go package.
 * [enumlinter](https://github.com/THE108/enumlinter) - Enum linter for enumerated types in Go.
 * [errcheck](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.

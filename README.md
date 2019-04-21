@@ -39,6 +39,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 ## Linters
 ### Code Formatting
 * [gofmt](https://golang.org/cmd/gofmt/) - Gofmt formats Go programs. Must have for every project. Don't forget to use -s flag.
+* [gofumpt](https://github.com/mvdan/gofumpt) - The tool is a modified fork of gofmt, enforcing a stricter format than gofmt, while being backwards compatible.
 * [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - Goimports does everything that gofmt does. Additionally it checks unused imports.
 * [unindent](https://github.com/mvdan/unindent) - Report code that is unnecessarily indented
 

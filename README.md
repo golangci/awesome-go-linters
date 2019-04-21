@@ -98,6 +98,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [Copyfighter](https://github.com/jmhodges/copyfighter) - Statically analyzes Go code and reports functions that are passing large structs by value.
 * [maligned](https://github.com/mdempsky/maligned) - Tool to detect Go structs that would take less memory if their fields were sorted.
 * [prealloc](https://github.com/alexkohler/prealloc) - Find slice declarations that could potentially be preallocated.
+* [rangerdanger](https://github.com/mdempsky/rangerdanger) - Tool to detect range statements iterating over addressable arrays
 
 ### Reports
 * [flen](https://github.com/lafolle/flen) - Get info on length of functions in a Go package.

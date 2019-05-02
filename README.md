@@ -38,6 +38,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 
 ## Linters
 ### Code Formatting
+* [dedupimport](https://github.com/nishanths/dedupimport) - Fix duplicate imports that have the same import path but different import names.
 * [gofmt](https://golang.org/cmd/gofmt/) - Gofmt formats Go programs. Must have for every project. Don't forget to use -s flag.
 * [gofumpt](https://github.com/mvdan/gofumpt) - The tool is a modified fork of gofmt, enforcing a stricter format than gofmt, while being backwards compatible.
 * [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - Goimports does everything that gofmt does. Additionally it checks unused imports.
@@ -66,6 +67,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [lll](https://github.com/walle/lll) - Line length linter, used to enforce line length in files.
 * [misspell](https://github.com/client9/misspell) - Finds commonly misspelled English words
 * [nofuncflags](https://github.com/fsamin/nofuncflags) - disallow boolean params to functions (flags).
+* [predeclared](https://github.com/nishanths/predeclared) - Find code that shadows Go's built-in identifiers.
 * [revive](https://github.com/mgechev/revive) - ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 * [unconvert](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 * [usedexports](https://github.com/jgautheron/usedexports) - Find in Go exported variables that could be unexported.

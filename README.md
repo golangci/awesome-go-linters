@@ -47,6 +47,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 ### Code Complexity
 * [abcgo](https://github.com/droptheplot/abcgo) - ABC metrics for Go source code.
 * [depth](https://github.com/360EntSecGroup-Skylar/goreporter/tree/feature-3.0/linters/depth) - Count the maxdepth of go functions. It's helpful to see if a function needs to be splitted into several smaller functions, for readability purpose.
+* [funlen](https://github.com/ultraware/funlen) - linter that checks for long functions. It can check both the number of lines and the number of statements.
 * [gocyclo](https://github.com/alecthomas/gocyclo) - Computes and checks the cyclomatic complexity of functions.
 * [nakedret](https://github.com/alexkohler/nakedret) - nakedret is a Go static analysis tool to find naked returns in functions greater than a specified function length.
 * [splint](https://github.com/stathat/splint) - It finds any functions that are too long or have too many parameters or results.

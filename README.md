@@ -72,6 +72,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [revive](https://github.com/mgechev/revive) - ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 * [unconvert](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 * [usedexports](https://github.com/jgautheron/usedexports) - Find in Go exported variables that could be unexported.
+* [whitespace](https://github.com/ultraware/whitespace) - Checks for unnecessary newlines at the start and end of functions
 
 ### Bugs
 * [apicompat](https://github.com/bradleyfalzon/apicompat) - Checks recent changes to a Go project for backwards incompatible changes.

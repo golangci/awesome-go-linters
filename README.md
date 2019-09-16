@@ -53,6 +53,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [splint](https://github.com/stathat/splint) - It finds any functions that are too long or have too many parameters or results.
 
 ### Style and Patterns Checking
+* [dogsled](https://github.com/alexkohler/dogsled) - Finds assignments/declarations with too many blank identifiers.
 * [dupl](https://github.com/mibk/dupl) - Tool for code clone detection.
 * [go-checkstyle](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style refered to some points in Go Code Review Comments.
 * [go-cleanarch](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.

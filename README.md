@@ -90,7 +90,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [mulint](https://github.com/gnieto/mulint) - Go lint which detects recursive locks, which may lead to dead locks.
 * [safesql](https://github.com/stripe/safesql) - Static analysis tool for Golang that protects against SQL injections.
 * [scopelint](https://github.com/kyoh86/scopelint) - scopelint checks for unpinned variables in go programs.
-* [sqlrows](github.com/gostaticanalysis/sqlrows) - checks whether Close on sql.Rows is called.
+* [sqlrows](https://github.com/gostaticanalysis/sqlrows) - checks whether Close on sql.Rows is called.
 * [staticcheck](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 
 ### Unused Code

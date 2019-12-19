@@ -59,6 +59,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [go-cleanarch](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.
 * [go-consistent](https://github.com/Quasilyte/go-consistent) - source code analyzer that helps you to make your Go programs more consistent.
 * [go-namecheck](https://github.com/Quasilyte/go-namecheck) - source code analyzer that helps you to maintain variable/field naming conventions inside your project. 
+* [go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules.
 * [gochecknoinits](https://4d63.com/gochecknoinits) - Find init functions, to reduce side effects in code.
 * [gochecknoglobals](https://4d63.com/gochecknoglobals) - Find global vars, to reduce side effects in code.
 * [goconst](https://github.com/jgautheron/goconst) - Find in Go repeated strings that could be replaced by a constant.

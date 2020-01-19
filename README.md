@@ -58,7 +58,8 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [go-checkstyle](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style refered to some points in Go Code Review Comments.
 * [go-cleanarch](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.
 * [go-consistent](https://github.com/Quasilyte/go-consistent) - source code analyzer that helps you to make your Go programs more consistent.
-* [go-namecheck](https://github.com/Quasilyte/go-namecheck) - source code analyzer that helps you to maintain variable/field naming conventions inside your project. 
+* [go-namecheck](https://github.com/Quasilyte/go-namecheck) - source code analyzer that helps you to maintain variable/field naming conventions inside your project.
+* [go-printf-func-name](https://github.com/jirfag/go-printf-func-name) - checks that printf-like functions are named with `f` at the end.
 * [go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules.
 * [gochecknoinits](https://4d63.com/gochecknoinits) - Find init functions, to reduce side effects in code.
 * [gochecknoglobals](https://4d63.com/gochecknoglobals) - Find global vars, to reduce side effects in code.

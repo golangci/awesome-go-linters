@@ -133,3 +133,4 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [revgrep](https://github.com/bradleyfalzon/revgrep) - Filters output from static analysis tools, showing only recently changed lines of code
 * [reviewdog](https://github.com/haya14busa/reviewdog) - "reviewdog" provides a way to post review comments to code hosting service, such as GitHub, automatically by integrating with any linter tools with ease.
 * [zb](https://github.com/joshuarubin/zb) - speedup linting by caching gometalinter result.
+* [golintui](https://github.com/nakabonne/golintui) - A simple terminal UI for Go linters.

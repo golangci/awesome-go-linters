@@ -35,6 +35,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [Scrutinizer](https://scrutinizer-ci.com/) - A proprietery code quality checker that can be integrated with GitHub
 * [SideCI](https://sideci.com/) - An automated code reviewing tool. Improving developers' productivity.
 
+
 ## Linters
 ### Code Formatting
 * [dedupimport](https://github.com/nishanths/dedupimport) - Fix duplicate imports that have the same import path but different import names.

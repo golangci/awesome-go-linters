@@ -35,7 +35,6 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [Scrutinizer](https://scrutinizer-ci.com/) - A proprietery code quality checker that can be integrated with GitHub
 * [SideCI](https://sideci.com/) - An automated code reviewing tool. Improving developers' productivity.
 
-
 ## Linters
 ### Code Formatting
 * [dedupimport](https://github.com/nishanths/dedupimport) - Fix duplicate imports that have the same import path but different import names.
@@ -57,6 +56,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [dupl](https://github.com/mibk/dupl) - Tool for code clone detection.
 * [go-checkstyle](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style refered to some points in Go Code Review Comments.
 * [go-cleanarch](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.
+* [go-arch-lint](https://github.com/fe3dback/go-arch-lint) - check all project imports and compare to arch rules defined in yaml file.
 * [go-consistent](https://github.com/Quasilyte/go-consistent) - source code analyzer that helps you to make your Go programs more consistent.
 * [go-namecheck](https://github.com/Quasilyte/go-namecheck) - source code analyzer that helps you to maintain variable/field naming conventions inside your project.
 * [go-printf-func-name](https://github.com/jirfag/go-printf-func-name) - checks that printf-like functions are named with `f` at the end.

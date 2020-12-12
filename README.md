@@ -125,6 +125,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [tarp](https://github.com/verygoodsoftwarenotvirus/tarp) - tarp finds functions and methods without direct unit tests in Go source code.
 * [go-mnd](https://github.com/tommy-muehle/go-mnd) - Magic number detector for Go.
 * [gocheckit](https://github.com/brompwnie/gocheckit) - A Go tool to help identify Deprecated Go Modules.
+* [chronos](https://github.com/amit-davidson/Chronos) - A static race detector for the go language.
 
 ## Linters Helper Tools
 * [golangci-lint](https://github.com/golangci/golangci-lint) - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.

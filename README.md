@@ -95,6 +95,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 ### Unused Code
 * [deadcode](https://github.com/tsenart/deadcode) - Finds unused code.
 * [ineffassign](https://github.com/gordonklaus/ineffassign) - Detect when assignments to existing variables are not used.
+* [structcheck](https://gitlab.com/opennota/check) - Find unused global variables and constants.
 * [unparam](https://github.com/mvdan/unparam) - Report unused function parameters.
 * [unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - unused checks Go code for unused constants, variables, functions and types.
 * [varcheck](https://gitlab.com/opennota/check) - Find unused global variables and constants.

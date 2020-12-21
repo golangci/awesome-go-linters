@@ -23,7 +23,6 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 ## Cloud Linters
 ### Go Focused
 * [GolangCI](https://golangci.com/) - Open Source SaaS service for running linters on Github pull requests. Free for Open Source.
-* [GopherCI](https://gopherci.io/) - GopherCI helps you maintain high-quality Go projects, by checking each GitHub Pull Request, for backward incompatible changes, and a suite of other tests.
 * [Go Report Card](https://goreportcard.com/) - Go repo report card.
 
 ### General Purpose

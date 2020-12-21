@@ -29,7 +29,6 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [CodeClimate](https://codeclimate.com/) - The open and extensible static analysis platform.
 * [CodeFactor](https://www.codefactor.io/) - Automated Code Analysis for repos on GitHub or BitBucket.
 * [HoundCI](https://houndci.com/) - Code review tool for GitHub pull requests
-* [QuantifiedCode](https://www.quantifiedcode.com/) - Automated code review & repair
 * [Scrutinizer](https://scrutinizer-ci.com/) - A proprietery code quality checker that can be integrated with GitHub
 * [SideCI](https://sideci.com/) - An automated code reviewing tool. Improving developers' productivity.
 

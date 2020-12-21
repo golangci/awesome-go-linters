@@ -101,7 +101,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [varcheck](https://gitlab.com/opennota/check) - Find unused global variables and constants.
 
 ### Performance
-* [aligncheck](https://github.com/opennota/check) - Warn about un-optimally aligned structures.
+* [aligncheck](https://gitlab.com/opennota/check) - Warn about un-optimally aligned structures.
 * [Copyfighter](https://github.com/jmhodges/copyfighter) - Statically analyzes Go code and reports functions that are passing large structs by value.
 * [maligned](https://github.com/mdempsky/maligned) - Tool to detect Go structs that would take less memory if their fields were sorted.
 * [prealloc](https://github.com/alexkohler/prealloc) - Find slice declarations that could potentially be preallocated.

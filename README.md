@@ -23,15 +23,12 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 ## Cloud Linters
 ### Go Focused
 * [GolangCI](https://golangci.com/) - Open Source SaaS service for running linters on Github pull requests. Free for Open Source.
-* [Golint online](http://go-lint.appspot.com/) - Lints online Go source files on GitHub, Bitbucket and Google Project Hosting using the golint package.
-* [GopherCI](https://gopherci.io/) - GopherCI helps you maintain high-quality Go projects, by checking each GitHub Pull Request, for backward incompatible changes, and a suite of other tests.
 * [Go Report Card](https://goreportcard.com/) - Go repo report card.
 
 ### General Purpose
 * [CodeClimate](https://codeclimate.com/) - The open and extensible static analysis platform.
 * [CodeFactor](https://www.codefactor.io/) - Automated Code Analysis for repos on GitHub or BitBucket.
 * [HoundCI](https://houndci.com/) - Code review tool for GitHub pull requests
-* [QuantifiedCode](https://www.quantifiedcode.com/) - Automated code review & repair
 * [Scrutinizer](https://scrutinizer-ci.com/) - A proprietery code quality checker that can be integrated with GitHub
 * [SideCI](https://sideci.com/) - An automated code reviewing tool. Improving developers' productivity.
 
@@ -98,13 +95,13 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 ### Unused Code
 * [deadcode](https://github.com/tsenart/deadcode) - Finds unused code.
 * [ineffassign](https://github.com/gordonklaus/ineffassign) - Detect when assignments to existing variables are not used.
-* [structcheck](https://github.com/opennota/check) - Find unused global variables and constants.
+* [structcheck](https://gitlab.com/opennota/check) - Find unused global variables and constants.
 * [unparam](https://github.com/mvdan/unparam) - Report unused function parameters.
 * [unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - unused checks Go code for unused constants, variables, functions and types.
 * [varcheck](https://gitlab.com/opennota/check) - Find unused global variables and constants.
 
 ### Performance
-* [aligncheck](https://github.com/opennota/check) - Warn about un-optimally aligned structures.
+* [aligncheck](https://gitlab.com/opennota/check) - Warn about un-optimally aligned structures.
 * [Copyfighter](https://github.com/jmhodges/copyfighter) - Statically analyzes Go code and reports functions that are passing large structs by value.
 * [maligned](https://github.com/mdempsky/maligned) - Tool to detect Go structs that would take less memory if their fields were sorted.
 * [prealloc](https://github.com/alexkohler/prealloc) - Find slice declarations that could potentially be preallocated.

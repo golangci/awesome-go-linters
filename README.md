@@ -68,6 +68,7 @@ Sponsored by [GolangCI](https://golangci.com): SaaS service for running linters 
 * [gosimple](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple) - gosimple is a linter for Go source code that specialises on simplifying code.
 * [impi](https://github.com/pavius/impi) - Verify imports grouping and ordering.
 * [interfacer](https://github.com/mvdan/interfacer) - Linter that suggests narrower interface types.
+* [ireturn](https://github.com/butuzov/ireturn) - Linter that suggests to return concreat types instead of the interfaces.
 * [lll](https://github.com/walle/lll) - Line length linter, used to enforce line length in files.
 * [misspell](https://github.com/client9/misspell) - Finds commonly misspelled English words
 * [nofuncflags](https://github.com/fsamin/nofuncflags) - disallow boolean params to functions (flags).
